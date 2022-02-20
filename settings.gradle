@@ -1,4 +1,4 @@
 rootProject.name = 'attendance'
-include 'mashup-domain'
-include 'mashup-api'
-include 'mashup-admin'
+include 'attendance-domain'
+include 'attendance-api'
+include 'attendance-admin'
